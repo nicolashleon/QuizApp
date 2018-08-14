@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_cyclist_question_1">Who are the Movistar cyclists?</string>
+    <string name="txt_cyclist_question_2">When did the first race of the Giro d\'Italia take place?</string>
+    <string name="txt_cyclist_question_3">How many days does the Giro d\'Italia last?</string>
+    <string name="txt_cyclist_question_4">When did the first Tour de France take place?</string>
+</resources>

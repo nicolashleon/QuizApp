@@ -1,0 +1,13 @@
+<resources>
+    <!--Margins-->
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="normal_margin">16dp</dimen>
+    <dimen name="half_margin">8dp</dimen>
+
+    <!--Text Sizes-->
+    <dimen name="dimen_text_xlarge">48sp</dimen>
+    <dimen name="dimen_text_large">36sp</dimen>
+    <dimen name="dimen_text_medium">22sp</dimen>
+    <dimen name="dimen_text_small">8sp</dimen>
+    <dimen name="zero_margin">0dp</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="title_activity_quiz">Cycling Quiz</string>
+    <string name="txt_open_answer_hint">Write your answer here</string>
+    <string name="txt_submit_btn">Submit</string>
+    <string name="txt_finish_quiz">Finish</string>
+    <string name="txt_grade_quiz">Your grade is %1$d/%2$d</string>
+</resources>

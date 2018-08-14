@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_cyclist_question_1_answer_1">Nairo Quintana</string>
+    <string name="txt_cyclist_question_1_answer_2">Alejandro Valverde</string>
+    <string name="txt_cyclist_question_1_answer_3">Chris Froome</string>
+    <string name="txt_cyclist_question_1_answer_4">Michael Schumacher</string>
+    <string name="txt_cyclist_question_2_answer_1">1909</string>
+    <string name="txt_cyclist_question_2_answer_2">1908</string>
+    <string name="txt_cyclist_question_2_answer_3">1950</string>
+    <string name="txt_cyclist_question_2_answer_4">1920</string>
+    <string name="txt_cyclist_question_3_answer_1">23</string>
+    <string name="txt_cyclist_question_4_answer_1">1903</string>
+    <string name="txt_cyclist_question_4_answer_2">1902</string>
+    <string name="txt_cyclist_question_4_answer_3">1904</string>
+    <string name="txt_cyclist_question_4_answer_4">1920</string>
+</resources>

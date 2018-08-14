@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="TextViewStyle.Question" parent="android:Widget.TextView">
+        <item name="android:layout_marginTop">@dimen/normal_margin</item>
+        <item name="android:layout_marginBottom">@dimen/normal_margin</item>
+        <item name="android:textSize">@dimen/dimen_text_medium</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="CheckBox.AnswerOption" parent="Base.Widget.AppCompat.CompoundButton.CheckBox">
+        <item name="android:layout_marginBottom">@dimen/half_margin</item>
+    </style>
+
+    <style name="RadioButton.AnswerOption" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:layout_marginBottom">@dimen/half_margin</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

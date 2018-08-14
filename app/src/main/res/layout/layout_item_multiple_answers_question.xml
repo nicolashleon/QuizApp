@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/normal_margin"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text_view_question"
+        style="@style/TextViewStyle.Question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        tools:text="Question" />
+
+    <LinearLayout
+        android:id="@+id/checkbox_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:id="@+id/checkbox_opt_1"
+            style="@style/CheckBox.AnswerOption"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Option 1" />
+
+        <CheckBox
+            android:id="@+id/checkbox_opt_2"
+            style="@style/CheckBox.AnswerOption"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Option 2" />
+
+        <CheckBox
+            android:id="@+id/checkbox_opt_3"
+            style="@style/CheckBox.AnswerOption"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Option 3" />
+
+        <CheckBox
+            android:id="@+id/checkbox_opt_4"
+            style="@style/CheckBox.AnswerOption"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Option 4" />
+    </LinearLayout>
+
+</LinearLayout>
